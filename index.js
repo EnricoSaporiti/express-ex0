@@ -34,6 +34,8 @@ app.get('/dogs/:dogId', (req, res) => {
 	res.json();
 });
 
+get.post('')
+
 app.post('/dogs');
 
 app.get('/login', (req, res) => {
